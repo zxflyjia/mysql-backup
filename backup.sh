@@ -1,4 +1,4 @@
-uthor absolutely.xu@gmail.com
+Author 550107441@qq.com
 MAXIMUM_BACKUP_FILES=10              #最大备份文件数
 BACKUP_FOLDERNAME="database_backup"  #数据库备份文件的主目录
 DB_HOSTNAME="localhost"              #mysql所在主机的主机名
